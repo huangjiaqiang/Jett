@@ -1,2 +1,3 @@
+include ':jett-lib'
 include ':app'
 rootProject.name = "Jett"
